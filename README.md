@@ -5,7 +5,7 @@
   ![Viewer Count](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FNemasisDarkX%2FGenshin-TCG-Card-API.json%3Fcolor%3Dpink)
   
   <p>This image only includes obtainable and unobtainable cards:</p>
-  <img src="https://i.ibb.co/HBbWF9G/cardsdeck-for-giuthub.png" alt="Cards Deck" width="600" />
+<img src="https://i.ibb.co/HBbWF9G/cardsdeck-for-giuthub.png" alt="Cards Deck" width="600" />
   
   <p>Fork The Repo And Deploy The API On A Server Like:</p>
   
