@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Path to the background image
-BACKGROUND_IMAGE_PATH = "./Background_image/Ronen-botss.jpg"
+BACKGROUND_IMAGE_PATH = "./Background_image/bg.jpg"
 
 # Define the pixels equivalent to 0.5 cm assuming 72 DPI (1 inch = 2.54 cm, 1 inch = 72 pixels)
 SPACING_PX = 20  # 0.5 cm in pixels at 72 DPI
